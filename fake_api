@@ -1,16 +1,25 @@
+
 {
   "laptops": [
-    {
-      "id": 1,
-      "name": "ASUS Vivobook",
-      "price": 12000000,
-      "image": "https://placehold.co/300x200?text=ASUS"
-    },
-    {
-      "id": 2,
-      "name": "Dell Inspiron",
-      "price": 15000000,
-      "image": "https://placehold.co/300x200?text=Dell"
-    }
+    {"id": 1, "name": "ASUS Zenbook 14 OLED", "price": 18900000, "image": "https://placehold.co/300x200?text=Zenbook+14"},
+    {"id": 2, "name": "ASUS ROG Zephyrus G14", "price": 32900000, "image": "https://placehold.co/300x200?text=ROG+Zephyrus"},
+    {"id": 3, "name": "ASUS TUF Gaming A15", "price": 21900000, "image": "https://placehold.co/300x200?text=TUF+Gaming"},
+    {"id": 4, "name": "HP Pavilion Aero 13", "price": 16900000, "image": "https://placehold.co/300x200?text=HP+Pavilion"},
+    {"id": 5, "name": "HP Envy x360 14", "price": 22900000, "image": "https://placehold.co/300x200?text=HP+Envy"},
+    {"id": 6, "name": "HP Victus Gaming 15", "price": 19900000, "image": "https://placehold.co/300x200?text=HP+Victus"},
+    {"id": 7, "name": "Lenovo ThinkPad E14", "price": 17900000, "image": "https://placehold.co/300x200?text=ThinkPad"},
+    {"id": 8, "name": "Lenovo Yoga 7i", "price": 24900000, "image": "https://placehold.co/300x200?text=Yoga+7i"},
+    {"id": 9, "name": "Lenovo Legion 5", "price": 27900000, "image": "https://placehold.co/300x200?text=Legion+5"},
+    {"id": 10, "name": "Lenovo IdeaPad 5", "price": 14900000, "image": "https://placehold.co/300x200?text=IdeaPad+5"},
+    {"id": 11, "name": "Acer Swift Go 14", "price": 16900000, "image": "https://placehold.co/300x200?text=Swift+Go"},
+    {"id": 12, "name": "Acer Predator Helios Neo 16", "price": 28900000, "image": "https://placehold.co/300x200?text=Predator+Helios"},
+    {"id": 13, "name": "Acer Aspire Vero", "price": 13900000, "image": "https://placehold.co/300x200?text=Aspire+Vero"},
+    {"id": 14, "name": "MSI Cyborg 15", "price": 18900000, "image": "https://placehold.co/300x200?text=MSI+Cyborg"},
+    {"id": 15, "name": "MSI Katana 17", "price": 25900000, "image": "https://placehold.co/300x200?text=MSI+Katana"},
+    {"id": 16, "name": "MSI Modern 14", "price": 12900000, "image": "https://placehold.co/300x200?text=MSI+Modern"},
+    {"id": 17, "name": "MacBook Air M2", "price": 21900000, "image": "https://placehold.co/300x200?text=MacBook+Air+M2"},
+    {"id": 18, "name": "MacBook Air M3", "price": 26900000, "image": "https://placehold.co/300x200?text=MacBook+Air+M3"},
+    {"id": 19, "name": "Gigabyte G5 Gaming", "price": 19900000, "image": "https://placehold.co/300x200?text=Gigabyte+G5"},
+    {"id": 20, "name": "Huawei MateBook D14", "price": 14900000, "image": "https://placehold.co/300x200?text=MateBook+D14"}
   ]
 }
